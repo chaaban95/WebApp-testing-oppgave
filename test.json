@@ -1,0 +1,80 @@
+{
+  "questions": [
+    {
+      "title": "Hva er hovedstaden i Syria?",
+      "answers": [
+        { "answer": "Aleppo" },
+        {
+          "answer": "Dubai"
+        },
+        {
+          "answer": "Baghdad"
+        },
+        {
+          "answer": "Damaskus",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ikke Dubai"
+      }
+    },
+    {
+      "title": "Hva er hovedstaden i Norge?",
+      "answers": [
+        { "answer": "Bergen" },
+        {
+          "answer": "Stockholm"
+        },
+        {
+          "answer": "Paris"
+        },
+        {
+          "answer": "Oslo",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ikke Paris"
+      }
+    },
+    {
+      "title": "Hva er hovedstaden i Tyrkia?",
+      "answers": [
+        { "answer": "Istanbul" },
+        {
+          "answer": "Athena"
+        },
+        {
+          "answer": "Izmir"
+        },
+        {
+          "answer": "Ankara",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ikke Athena"
+      }
+    },
+    {
+      "title": "Hva er hovedstaden i Spania?",
+      "answers": [
+        { "answer": "Barcelona" },
+        {
+          "answer": "Lisbon"
+        },
+        {
+          "answer": "Casablanca"
+        },
+        {
+          "answer": "Madrid",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Det er ikke Casablanca"
+      }
+    }
+  ]
+}
