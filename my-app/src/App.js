@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <h1>My favorite city is {city}!</h1>
-      <button onClick={() => setCity()}>Don't click</button>
+      <button onClick={() => setCity("")}>Don't click</button>
     </div>
   );
 }
